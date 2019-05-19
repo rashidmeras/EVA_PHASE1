@@ -14,7 +14,7 @@ Inorder to do this we will make use these techniques mentioned below:
 1. New optimizer known as SGD along with loss method known as binary_crossentropy.
 2. Learning Rate Scheduler
 
-Tune into the colab notebook for more details and to see how these Networks are pushed for their ultimate performance of 
+Tune into the colab notebook for more details and to see how these Networks are pushed for their ultimate performance. 
 
 > * **Network Type4**: With Total params=**11,336** and Validation Accuracy=**99.9%**
 > * **Network Type5**: With Total params=**5,408** and Validation Accuracy=**99.8%**
