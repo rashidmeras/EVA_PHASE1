@@ -1,6 +1,6 @@
-Objective:
+## Architectural Basics
 
-Create a Vanilla network for MNIST data set and define the network architecture such that:
+In this "First" section the objective is to create a Vanilla network for MNIST data set and define the network architecture such that:
 1. It has 3x3 convolution
 2. It has 1x1 convolution
 3. It has a transitional layer (i.e. MaxPooling)
